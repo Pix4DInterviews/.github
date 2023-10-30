@@ -4,5 +4,5 @@ This organization is used by [Pix4D](https://github.com/Pix4D) to conduct techni
 
 We use [GitHub Classroom](https://classroom.github.com) to manage the home assignment you will have access to.
 
-Please reach our to your hiring manager at Pix4D if you have any more questions.
+Please reach out to your hiring manager at Pix4D if you have any questions.
 
